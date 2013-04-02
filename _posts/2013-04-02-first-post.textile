@@ -1,0 +1,9 @@
+---
+layout: post
+title: First Post!
+summary: A blog is born.
+---
+
+You don't just go headsdown into books for several months and emerge victoriously as a software developer. There is a whole meta and social part of the community that's just as important. Being able to read and share code is just as important as writing new code.
+
+Github has become an essential tool (with great understatement). I'm looking forward to using this blog engine and Github as my server, score free hosting!
