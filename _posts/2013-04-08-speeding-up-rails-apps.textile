@@ -1,0 +1,12 @@
+---
+layout: post
+title: Speeding Up Rails Apps
+summary: Summary of several profiling tools and how to use them on a rails app.
+---
+
+YSlow
+Chrome Developer Tools (PageSpeed, Audits, Profiles, Network)
+New Relic http://net.tutsplus.com/articles/attention-developers-newrelic-is-your-secret-weapon/
+MiniProfiler http://railscasts.com/episodes/368-miniprofiler
+Javascript http://railscasts.com/episodes/369-client-side-performance
+
