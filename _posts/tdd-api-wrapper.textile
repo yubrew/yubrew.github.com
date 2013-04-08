@@ -1,0 +1,7 @@
+---
+layout: post
+title: How To TDD an API Wrapper
+summary: Best Practices (Hopefully!) to TDD API Wrappers
+---
+
+
