@@ -1,0 +1,80 @@
+---
+layout: post
+title: Generalist Developer Curriculum
+summary: What every web developer should know
+---
+
+This is a take off "What CS Majors Should Know" and "Teach Yourself Programming in Ten Years"
+http://matt.might.net/articles/what-cs-majors-should-know/
+http://www.mindmeister.com/151175205
+http://norvig.com/21-days.html
+
+Concerns:
+To get a good job
+Become a very productive and pragmatic developer
+
+I'll revise this as my interests change, time permitting. This is more of a self-study guide for the things that seem important at the time.
+
+Build a portfolio and track record of projects.
+
+Programming Languages
+I know Ruby pretty decently. I'd like to become fluent in Javascript, CoffeeScript, and a functional language like Scala or Haskell. 
+TDD an API wrapper
+contribute to rails
+SICP
+
+Javascript
+JavaScript: The Definitive Guide by Flanagan
+The Good Parts Douglas Crockford
+Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript by Herman.
+JSHint
+
+Unix
+write simple shell scripts.
+navigate and manipulate the filesystem
+edit a file with vim
+
+System Admin
+I want to know how to deal with server issues, and be comfortable working in the linux environment.
+Debug server problems.
+install and administer linux distro
+troubleshoot a connection with dig, ping, traceroute
+compile and configure a webserver like apache
+maintain a website with a text editor
+
+Databases
+postgresql
+mongodb
+couchdb
+SQL and Relational Theory by Date
+
+Fundamentals
+Data Structures - go through and implement all data structures in ruby
+Algorithms - go through the greatest hits, implementing in Ruby. hash table, linked list, tree, binary search trees, directed and undirected graphs
+CLRS
+Discrete Math - trees, graphs, formal languages, automata
+Theory - finite-state automata, regex, pushdown automata, context-free languages, formal grammars, Turing machines, lambda calculus, undecidability,
+the difference between P, NP, NP-Hard, NP-Complete
+make a compiler
+make a programming language
+
+Security
+social engineering
+buffer overflow
+integer overflow
+code injection vulnerabilities
+race conditions
+privilige confusion
+Metasploit: The Penetration Tester's Guide by Kennedy, O'Gorman, Kearns and Aharoni
+
+Cryptography
+symmetric-key cryptosystems
+public-key cryptosystems
+secure hash functions
+challenge-response authentication
+digital signature algorithms
+threshold cryptosystems
+
+Linear Algebra
+Machine Learning
+Artificial Intelligence
