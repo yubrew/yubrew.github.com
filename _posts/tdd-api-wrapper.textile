@@ -4,4 +4,6 @@ title: How To TDD an API Wrapper
 summary: Best Practices (Hopefully!) to TDD API Wrappers
 ---
 
+look at github for api wrappers, and see what kind of testing they use
+http://net.tutsplus.com/tutorials/ruby/writing-an-api-wrapper-in-ruby-with-tdd/
 
